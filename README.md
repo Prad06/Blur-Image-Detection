@@ -37,3 +37,4 @@ Use your own folder paths.
 The file TensorFlow_Final.ipynb is the implementation using Keras. Rest remains the same but the accuracy on train data is 92% and test data is 87%
 
 Pradnyesh Choudhari
+Thanks
